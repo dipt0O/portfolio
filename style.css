@@ -54,4 +54,12 @@ section{
 }
 .single-experience{
     box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+    height: 40%%;
+
+}
+.experience-area{
+    background-image: url(Images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
