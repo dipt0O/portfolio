@@ -26,3 +26,11 @@ color:orangered;
 section{
     height: 500px;
 }
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orangered,tomato);
+    padding: 10px 20px;
+    border-radius:10px;
+    color: white;
+}
